@@ -14,4 +14,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\APICall\APICall.csproj" />
+    <ProjectReference Include="..\DBClassLibrary\DBClassLibrary.csproj" />
+    <ProjectReference Include="..\JSONParser\JSONParser.csproj" />
+  </ItemGroup>
+
 </Project>

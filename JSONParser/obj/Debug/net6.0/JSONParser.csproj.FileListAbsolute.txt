@@ -1,0 +1,12 @@
+C:\Users\shasw\source\repos\newproject\JSONParser\bin\Debug\net6.0\JSONParser.deps.json
+C:\Users\shasw\source\repos\newproject\JSONParser\bin\Debug\net6.0\JSONParser.dll
+C:\Users\shasw\source\repos\newproject\JSONParser\bin\Debug\net6.0\JSONParser.pdb
+C:\Users\shasw\source\repos\newproject\JSONParser\obj\Debug\net6.0\JSONParser.csproj.AssemblyReference.cache
+C:\Users\shasw\source\repos\newproject\JSONParser\obj\Debug\net6.0\JSONParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shasw\source\repos\newproject\JSONParser\obj\Debug\net6.0\JSONParser.AssemblyInfoInputs.cache
+C:\Users\shasw\source\repos\newproject\JSONParser\obj\Debug\net6.0\JSONParser.AssemblyInfo.cs
+C:\Users\shasw\source\repos\newproject\JSONParser\obj\Debug\net6.0\JSONParser.csproj.CoreCompileInputs.cache
+C:\Users\shasw\source\repos\newproject\JSONParser\obj\Debug\net6.0\JSONParser.dll
+C:\Users\shasw\source\repos\newproject\JSONParser\obj\Debug\net6.0\refint\JSONParser.dll
+C:\Users\shasw\source\repos\newproject\JSONParser\obj\Debug\net6.0\JSONParser.pdb
+C:\Users\shasw\source\repos\newproject\JSONParser\obj\Debug\net6.0\ref\JSONParser.dll
