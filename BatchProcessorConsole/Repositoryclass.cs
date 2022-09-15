@@ -29,6 +29,12 @@ namespace BatchProcessorConsole
             Header header = context.HeaderTable.FirstOrDefault<Header>(p => p.Key == "ed8bbc525fmshe7f2ca46e69c3ffp179016jsne9ad147cd3e0");
             return header;
         }
+
+        public void AddQuoteToDB(Quotes q)
+        {
+            context.QuotesTable.Add(q);
+            context.SaveChanges();
+        }
     }
 }
 

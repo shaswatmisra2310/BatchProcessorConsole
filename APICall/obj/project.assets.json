@@ -1794,11 +1794,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shasw\\source\\repos\\newproject\\APICall\\APICall.csproj",
+      "projectUniqueName": "C:\\Users\\shasw\\source\\repos\\newproject\\Project\\APICall\\APICall.csproj",
       "projectName": "APICall",
-      "projectPath": "C:\\Users\\shasw\\source\\repos\\newproject\\APICall\\APICall.csproj",
+      "projectPath": "C:\\Users\\shasw\\source\\repos\\newproject\\Project\\APICall\\APICall.csproj",
       "packagesPath": "C:\\Users\\shasw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shasw\\source\\repos\\newproject\\APICall\\obj\\",
+      "outputPath": "C:\\Users\\shasw\\source\\repos\\newproject\\Project\\APICall\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shasw\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1815,8 +1815,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\shasw\\source\\repos\\newproject\\DBClassLibrary\\DBClassLibrary.csproj": {
-              "projectPath": "C:\\Users\\shasw\\source\\repos\\newproject\\DBClassLibrary\\DBClassLibrary.csproj"
+            "C:\\Users\\shasw\\source\\repos\\newproject\\Project\\DBClassLibrary\\DBClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\shasw\\source\\repos\\newproject\\Project\\DBClassLibrary\\DBClassLibrary.csproj"
             }
           }
         }

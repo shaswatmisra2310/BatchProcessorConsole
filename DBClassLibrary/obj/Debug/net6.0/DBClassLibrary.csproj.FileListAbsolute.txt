@@ -12,3 +12,17 @@ C:\Users\shasw\source\repos\newproject\DBClassLibrary\obj\Debug\net6.0\refint\DB
 C:\Users\shasw\source\repos\newproject\DBClassLibrary\obj\Debug\net6.0\DBClassLibrary.pdb
 C:\Users\shasw\source\repos\newproject\DBClassLibrary\obj\Debug\net6.0\DBClassLibrary.genruntimeconfig.cache
 C:\Users\shasw\source\repos\newproject\DBClassLibrary\obj\Debug\net6.0\ref\DBClassLibrary.dll
+C:\Users\shasw\source\repos\newproject\Project\DBClassLibrary\bin\Debug\net6.0\DBClassLibrary.deps.json
+C:\Users\shasw\source\repos\newproject\Project\DBClassLibrary\bin\Debug\net6.0\DBClassLibrary.runtimeconfig.json
+C:\Users\shasw\source\repos\newproject\Project\DBClassLibrary\bin\Debug\net6.0\DBClassLibrary.dll
+C:\Users\shasw\source\repos\newproject\Project\DBClassLibrary\bin\Debug\net6.0\DBClassLibrary.pdb
+C:\Users\shasw\source\repos\newproject\Project\DBClassLibrary\obj\Debug\net6.0\DBClassLibrary.csproj.AssemblyReference.cache
+C:\Users\shasw\source\repos\newproject\Project\DBClassLibrary\obj\Debug\net6.0\DBClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shasw\source\repos\newproject\Project\DBClassLibrary\obj\Debug\net6.0\DBClassLibrary.AssemblyInfoInputs.cache
+C:\Users\shasw\source\repos\newproject\Project\DBClassLibrary\obj\Debug\net6.0\DBClassLibrary.AssemblyInfo.cs
+C:\Users\shasw\source\repos\newproject\Project\DBClassLibrary\obj\Debug\net6.0\DBClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\shasw\source\repos\newproject\Project\DBClassLibrary\obj\Debug\net6.0\DBClassLibrary.dll
+C:\Users\shasw\source\repos\newproject\Project\DBClassLibrary\obj\Debug\net6.0\refint\DBClassLibrary.dll
+C:\Users\shasw\source\repos\newproject\Project\DBClassLibrary\obj\Debug\net6.0\DBClassLibrary.pdb
+C:\Users\shasw\source\repos\newproject\Project\DBClassLibrary\obj\Debug\net6.0\DBClassLibrary.genruntimeconfig.cache
+C:\Users\shasw\source\repos\newproject\Project\DBClassLibrary\obj\Debug\net6.0\ref\DBClassLibrary.dll

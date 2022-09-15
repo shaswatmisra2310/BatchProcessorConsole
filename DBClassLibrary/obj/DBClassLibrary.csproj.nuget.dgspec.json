@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shasw\\source\\repos\\newproject\\DBClassLibrary\\DBClassLibrary.csproj": {}
+    "C:\\Users\\shasw\\source\\repos\\newproject\\Project\\DBClassLibrary\\DBClassLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shasw\\source\\repos\\newproject\\DBClassLibrary\\DBClassLibrary.csproj": {
+    "C:\\Users\\shasw\\source\\repos\\newproject\\Project\\DBClassLibrary\\DBClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shasw\\source\\repos\\newproject\\DBClassLibrary\\DBClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\shasw\\source\\repos\\newproject\\Project\\DBClassLibrary\\DBClassLibrary.csproj",
         "projectName": "DBClassLibrary",
-        "projectPath": "C:\\Users\\shasw\\source\\repos\\newproject\\DBClassLibrary\\DBClassLibrary.csproj",
+        "projectPath": "C:\\Users\\shasw\\source\\repos\\newproject\\Project\\DBClassLibrary\\DBClassLibrary.csproj",
         "packagesPath": "C:\\Users\\shasw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shasw\\source\\repos\\newproject\\DBClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\shasw\\source\\repos\\newproject\\Project\\DBClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shasw\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tszK8we6vqO5Cj9IM6WpuDYusua9fbhGco18wtH2klniUlVOvfl8cx8shEpkhzOmboYhmEjFJQ/walsZGu6q9w==",
+  "dgSpecHash": "8edKfkSxA+6DWrU9onKWGEfJq8NosHiR0/EIxGyfFd/bLCOxnME1nBgpMj6MCr95fr+LmRVRTPLH7/xMhJWfGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shasw\\source\\repos\\newproject\\DBClassLibrary\\DBClassLibrary.csproj",
+  "projectFilePath": "C:\\Users\\shasw\\source\\repos\\newproject\\Project\\DBClassLibrary\\DBClassLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shasw\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\shasw\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
