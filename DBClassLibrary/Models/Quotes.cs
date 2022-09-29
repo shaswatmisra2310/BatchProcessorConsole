@@ -4,9 +4,12 @@ namespace DBClassLibrary.Models
 {
     public class Quotes
     {
+        [Key]
+
+        public int primarykey { get; set; }
 
         public string Name { get; set; }
-        [Key]
+        
         public string SymbolName { get; set; }
 
         public string QuoteType { get; set; }

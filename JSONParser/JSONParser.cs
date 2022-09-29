@@ -22,17 +22,11 @@ namespace JSONParser
             var totalCash = data.SelectToken("quoteResponse.result[0].totalCash")?.Value<string>();
             var preMarketPrice = data.SelectToken("quoteResponse.result[0].preMarketPrice")?.Value<string>();
             var regularMarketPrice = data.SelectToken("quoteResponse.result[0].regularMarketPrice")?.Value<string>();
-            try
-            {
-                var Industry = data.SelectToken("quoteResponse.result[0].Industry")?.Value<string>();
-            }
+            
+            //var Industry = data.SelectToken("quoteResponse.result[0].industry")?.Value<string>();
+            //var Sector = data.SelectToken("quoteResponse.result[0].sector")?.Value<string>();
 
-            catch(InvalidCastException e)
-            {
-                var Industry = "null";
-            }
-
-            Quotes q = new Quotes() { SymbolName=symbol, QuoteType=quoteType,Name=quoteSourceName, Exchange =exchange, Industry="Industry name"};
+            Quotes q = new Quotes() { SymbolName=symbol, QuoteType=quoteType,Name=longName, Exchange =exchange, Industry="Industry Name"};
 
             return q;
         }
