@@ -27,9 +27,14 @@ namespace JSONParser
                 var Industry = data.SelectToken("quoteResponse.result[0].industry")?.Value<string>();
             }
             catch (Exception ex){
-                var Industry = "Null";
+                var Industry = "null";
             }
-            var Sector = data.SelectToken("quoteResponse.result[0].sector")?.Value<string>();
+            try{
+                var Sector = data.SelectToken("quoteResponse.result[0].sector")?.Value<string>();
+            }
+            catch (Exception e){
+                var Sector = "null";
+            }
 
             Quotes q = new Quotes() { SymbolName=symbol, QuoteType=quoteType,Name=longName, Exchange =exchange, Industry="Industry Name"};
 
