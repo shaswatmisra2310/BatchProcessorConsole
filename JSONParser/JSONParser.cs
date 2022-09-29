@@ -23,8 +23,13 @@ namespace JSONParser
             var preMarketPrice = data.SelectToken("quoteResponse.result[0].preMarketPrice")?.Value<string>();
             var regularMarketPrice = data.SelectToken("quoteResponse.result[0].regularMarketPrice")?.Value<string>();
             
-            //var Industry = data.SelectToken("quoteResponse.result[0].industry")?.Value<string>();
-            //var Sector = data.SelectToken("quoteResponse.result[0].sector")?.Value<string>();
+            try{
+                var Industry = data.SelectToken("quoteResponse.result[0].industry")?.Value<string>();
+            }
+            catch (Exception ex){
+                var Industry = "Null";
+            }
+            var Sector = data.SelectToken("quoteResponse.result[0].sector")?.Value<string>();
 
             Quotes q = new Quotes() { SymbolName=symbol, QuoteType=quoteType,Name=longName, Exchange =exchange, Industry="Industry Name"};
 
